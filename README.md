@@ -32,7 +32,7 @@ This project was created as a special gift for my girlfriend, Katrina, who wante
 ##  How to Use
 
 ### Option 1: Visit the Live Site
-Just go to: `https://YOUR-USERNAME.github.io/katrinas-journal-2026/`
+Just go to: `https://raprap100.github.io/katrinas-journal-2026/`
 
 ### Option 2: Run Locally
 1. Clone or download this repository
