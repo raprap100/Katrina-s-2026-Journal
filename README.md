@@ -6,6 +6,8 @@ A personalized digital journal and planner web app designed as a heartfelt gift 
 
 This project was created as a special gift for my girlfriend, Katrina, who wanted a digital planner with mood tracking capabilities. She designed the entire layout and aesthetic in Canva, featuring her preferred color palette, playful Filipino phrases, and a cozy handwritten style. I then brought her vision to life by coding it into a fully functional web application.
 
+Canva link: [Canva](https://www.canva.com/design/DAG-gFAxkHU/e9xvF-TM7eVK-OpYx6GrtA/view?utm_content=DAG-gFAxkHU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha7505d5749)
+
 **Current Status**: This is an ongoing project! I'll be continuously updating and improving features based on feedback and usage.
 
 ## Features
